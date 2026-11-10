@@ -22,6 +22,6 @@
 
 | Ảnh | Tình huống | Quyết định cuối | Lý do theo schema |
 | --- | --- | --- | --- |
-| `drive_030.jpg` | Xe có kích thước lớn, thân dài, xuất hiện giữa nhiều ô tô con; dễ nhầm với xe tải khi quan sát từ góc camera trên cao. | `bus` | Thân xe có nhiều cửa kính dọc hai bên, khoang hành khách lớn và thiết kế đặc trưng của phương tiện vận chuyển nhiều người. Phân biệt với `truck` là xe tải có khoang chở hàng riêng biệt. |
-| `drive_024.jpg` | Các phương tiện thân hộp có kích thước nhỏ và vừa di chuyển xen kẽ với ô tô con, dễ nhầm giữa `car` và `van`. | `van` | Xe có phần mui cao, thân xe vuông vức và khoang phía sau nối liền cabin. Đây là đặc trưng của `van`, khác với kiểu thân xe con thông thường thuộc `car`. |
-| `drive_029.jpg` | Các phương tiện có kích thước và hình dáng khác nhau, trong đó xe thân cao, dạng hộp dễ nhầm giữa xe van và xe tải nhỏ. | `van` | Xe có cấu trúc thân liền khối giữa cabin và khoang phía sau, không có thùng hàng tách biệt như `truck`. |
+| `drive_030.jpg` | Xe có kích thước lớn, thân dài, xuất hiện giữa nhiều ô tô con; dễ nhầm với xe tải khi quan sát từ góc camera trên cao. | Gán nhãn | Thân xe có nhiều cửa kính dọc hai bên, khoang hành khách lớn và thiết kế đặc trưng của phương tiện vận chuyển nhiều người. Phân biệt với `truck` là xe tải có khoang chở hàng riêng biệt. |
+| `drive_024.jpg` | Các phương tiện thân hộp có kích thước nhỏ và vừa di chuyển xen kẽ với ô tô con, dễ nhầm giữa `car` và `van`. | Gán nhãn | Xe có phần mui cao, thân xe vuông vức và khoang phía sau nối liền cabin. Đây là đặc trưng của `van`, khác với kiểu thân xe con thông thường thuộc `car`. |
+| `drive_029.jpg` | Các phương tiện có kích thước và hình dáng khác nhau, trong đó xe thân cao, dạng hộp dễ nhầm giữa xe van và xe tải nhỏ. | Không gán | Xe có cấu trúc thân liền khối giữa cabin và khoang phía sau, không có thùng hàng tách biệt như `truck`. |
