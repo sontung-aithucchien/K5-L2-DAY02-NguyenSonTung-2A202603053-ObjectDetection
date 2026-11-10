@@ -4,11 +4,11 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
+- Họ tên: Nguyễn Sơn Tùng
+- MSSV: 2A202603053
+- Email: 26ai.tungns2@vinuni.edu.vn
 - Lớp:
-- Link repo bài làm:
+- Link repo bài làm: https://github.com/sontung-aithucchien/K5-L2-DAY02-NguyenSonTung-2A202603053-ObjectDetection
 - Link Colab đã chạy:
 
 ## 2. Schema và mini guideline
